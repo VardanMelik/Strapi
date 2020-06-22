@@ -1,2 +1,1 @@
-# Strapi
-Strapi
+strapi-crm
